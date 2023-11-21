@@ -26,3 +26,7 @@
 8- O que é pull request?
 
     É uma sugestão de pull que é possível criar e enviar no repositório a fins de sugerir mudanças que podem ser feitas no código, como uma forma de auxiliar.
+
+9 - O que é fork?
+
+    O fork pode ser entendido como um nó que você faz de duas versões do arquivo em uma só, a fins de realizar uma melhor organização no arquivo.
