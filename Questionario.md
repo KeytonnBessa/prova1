@@ -18,3 +18,7 @@
 5- O que é pull?
 
     O Pull é o processo de puxar as alterações feitas por outro usuário no repositório remoto para dentro do repositório local, para que não ocorra conflitos nas versões.
+
+7 - O que é branch?
+
+    Branch pode ser entendido como repartições no desenvolvimento do projeto (como galhos de uma árvore), é possível realizar alterações em diferentes frentes do desenvolvimento do projeto.       
