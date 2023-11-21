@@ -6,3 +6,7 @@
 2 - O que é commit?
 
     O commit é o envio das alterações realizadas em um arquivo para o repositório local, onde o usuário confirma as alterações realizadas no projeto (ainda assim, não afeta o repositório remoto).
+
+3 - O que é um repositório?
+
+    O repositório é o local onde fica localizado e salvo o arquivo/projeto, existindo 2 tipos: o remoto e o local.
