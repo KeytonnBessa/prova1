@@ -14,3 +14,7 @@
 4- O que é merge?
 
     O merge pode ser entendido como uma fusão ou mistura de branches, onde as alterações feitas por diferentes usuários, podem se unir em um versão só do arquivo para todos.
+
+5- O que é pull?
+
+    O Pull é o processo de puxar as alterações feitas por outro usuário no repositório remoto para dentro do repositório local, para que não ocorra conflitos nas versões.
