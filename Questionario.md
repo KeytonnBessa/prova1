@@ -21,4 +21,8 @@
 
 7 - O que é branch?
 
-    Branch pode ser entendido como repartições no desenvolvimento do projeto (como galhos de uma árvore), é possível realizar alterações em diferentes frentes do desenvolvimento do projeto.       
+    Branch pode ser entendido como repartições no desenvolvimento do projeto (como galhos de uma árvore), é possível realizar alterações em diferentes frentes do desenvolvimento do projeto.
+
+8- O que é pull request?
+
+    É uma sugestão de pull que é possível criar e enviar no repositório a fins de sugerir mudanças que podem ser feitas no código, como uma forma de auxiliar.
