@@ -10,3 +10,7 @@
 3 - O que é um repositório?
 
     O repositório é o local onde fica localizado e salvo o arquivo/projeto, existindo 2 tipos: o remoto e o local.
+
+4- O que é merge?
+
+    O merge pode ser entendido como uma fusão ou mistura de branches, onde as alterações feitas por diferentes usuários, podem se unir em um versão só do arquivo para todos.
