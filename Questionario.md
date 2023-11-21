@@ -30,3 +30,7 @@
 9 - O que é fork?
 
     O fork pode ser entendido como um nó que você faz de duas versões do arquivo em uma só, a fins de realizar uma melhor organização no arquivo.
+
+10 - O que é um VCS?
+
+    Version Controller Software, software de controle de versão.
